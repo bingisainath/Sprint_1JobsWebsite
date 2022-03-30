@@ -1,0 +1,28 @@
+1. sainath & tapaswi
+
+	controllers
+
+		create,auth,profile,findDomain,findByDomain,findAllJobs,applyJIb,jobsApplied,logout
+
+		createDomain,allDomain,logout
+
+
+	models	
+		
+		applicant,appliedjob,selected
+	
+
+
+
+2. varun & sumanth
+
+	controllers
+
+		auth,createJob,jobPostedByOrg,jobAppliedByApp,selectApp,selectedApp,deleteApp,logout
+
+		auth,createOrg,allorg
+
+
+	models
+
+		org,domain,job
