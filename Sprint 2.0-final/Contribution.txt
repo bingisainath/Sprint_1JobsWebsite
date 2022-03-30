@@ -1,0 +1,13 @@
+models
+
+sainath  (appliedJobs + applicants+domain)
+Tapaswi (appliedJobs + applicants+domain)
+Varun (Organization + selectedApplicants+jobs)
+sumanth (Organization + selectedApplicants+jobs)
+
+controllers
+
+sainath (controllers--applicant) 
+tapaswi (controllers--applicant)
+varun (controllers--organization)  
+sumanth (controllers --organization)
